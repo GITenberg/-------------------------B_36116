@@ -1,0 +1,37 @@
+_repo: '-------------------------B_36116'
+_version: 0.1.0
+alternative_title: Laws and Epinomis, Volume B
+contributor:
+  translator:
+    agent_name: Zambas, Kyriakos
+    alias: Ζάμπας, Κυριάκος
+    birthdate: 1866
+    gutenberg_agent_id: '33454'
+    url: http://www.gutenberg.org/2009/agents/33454
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2011-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36116'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'State, The -- Early works to 1800'
+- !lcsh 'Political science -- Early works to 1800'
+- !lcc 'JC'
+title: Νόμοι και Επινομίς, Τόμος B
+url: http://www.gutenberg.org/ebooks/36116
